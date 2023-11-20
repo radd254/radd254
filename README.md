@@ -4,6 +4,6 @@ Hi 👋, I'm Hoang Nguyen Dat
 
 -🔭 I’m currently working in FPT University
 
--🌱 I’m currently learning C, Java 🧐
+-🌱 I’m currently learning Python 🧐
 
--📖I started searching python😤😤😤
+-📖 I started searching cyber security 😤😤😤
