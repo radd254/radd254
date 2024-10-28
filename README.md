@@ -14,7 +14,7 @@ I'm Hoang Nguyen Dat
 
 -📖 I currently searching cyber security 😤😤😤
 
--📖 I'm trying to learn about Splunk 
+-📖 I'm currently learn about Splunk 
 
 
 
