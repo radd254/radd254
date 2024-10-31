@@ -12,9 +12,7 @@ I'm Hoang Nguyen Dat
 
 -🔭 I’m currently studying in FPT University
 
--📖 I currently searching cyber security 😤😤😤
-
--📖 I'm currently learn about Splunk 
+-📖 I'm currently learn about Splunk 😤😤😤
 
 
 
