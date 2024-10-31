@@ -8,11 +8,11 @@
 
 ###
 
-I'm Hoang Nguyen Dat
+- I'm Hoang Nguyen Dat
 
--🔭 I’m currently studying in FPT University
+- I’m currently studying in FPT University
 
--📖 I'm currently learn about Splunk 😤😤😤
+- I'm currently learn about Splunk 😤😤😤
 
 
 
