@@ -12,9 +12,6 @@
 
 - I’m currently studying in FPT University
 
-- I'm currently learn about Splunk 😤😤😤
-
-
 
 <h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me </h1>
 
@@ -57,12 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=hoangdat251004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
