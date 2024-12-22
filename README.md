@@ -1,7 +1,7 @@
 # Hello, I'm Hoang Nguyen Dat
 
 
-<h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me:
+<h1 align="left" >📫 How to reach me:
 
   <a href="https://www.facebook.com/hoangdat2510" target="blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
@@ -17,7 +17,7 @@
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 
-<h1 align="left">
+<h2 align="left">
   🛠 Language and tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
