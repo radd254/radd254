@@ -15,7 +15,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/hoangdat251004/SOC-Home-Lab-1">Detection Lab</a>|
 
 <h2 align="left">
   🛠 Language and tools:
@@ -38,4 +38,4 @@
 </div>
 
 ## Projects
-- <a href="https://google.com">Detection Lab</a>
+- <a href="https://github.com/hoangdat251004/SOC-Home-Lab-1">Detection Lab</a>
