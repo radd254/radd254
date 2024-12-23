@@ -39,3 +39,4 @@
 
 ## Projects
 - <a href="https://github.com/hoangdat251004/SOC-Home-Lab-1">SOC-Home-Lab-1</a>
+- <a href="https://github.com/hoangdat251004/SOC-Home-Lab-2">SOC-Home-Lab-2</a>
