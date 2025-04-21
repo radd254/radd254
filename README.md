@@ -3,7 +3,7 @@
 
 <h1 align="left" >📫 How to reach me:
 
-  <a href="https://www.facebook.com/hoangdat2510" target="blank">
+  <a href="https://www.facebook.com/dathn.2510" target="blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
   <a href="mailto:hdat251004@gmail.com" target="blank">
@@ -18,10 +18,8 @@
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/hoangdat251004/SOC-Home-Lab-1">SOC-Home-Lab-1</a>|
 
 <h2 align="left">
-  🛠 Language and tools:
+  🛠 Languages and tools:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -32,11 +30,19 @@
 </div>
 
 
-### SIEM
+### SIEM/ERD/IDS 
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img width="12" />
+  <img src="https://www.ossec.net/wp-content/uploads/2019/01/ossec_logo_2.png" height="35"  />
+  <img width="12" />
+  <img src="https://wazuh.com/wp-content/themes/wazuh-v3/assets/images/trademark-and-brand-policy/Wazuh-logo-dark-backgroud.png" height="35"  />
 </div>
 
 ## Projects
-- <a href="https://github.com/hoangdat251004/SOC-Home-Lab-1">SOC-Home-Lab-1</a>
-- <a href="https://github.com/hoangdat251004/SOC-Home-Lab-2">SOC-Home-Lab-2</a>
+- <a href="https://github.com/radd25104/SOC-Home-Lab-1">SOC-Home-Lab-1</a>
+- <a href="https://github.com/radd25104/SOC-Home-Lab-2">SOC-Home-Lab-2</a>
+
+### Labs
+- <a href="https://github.com/radd25104/Basic_Linux_Challenges">Linux-Challenges</a>
+- <a href="https://github.com/radd25104/Basic_Reverse_Engineering_0">Basic_Reverse_Engineering_0</a>
