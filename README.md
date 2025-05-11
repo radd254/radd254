@@ -41,7 +41,7 @@
 
 ## Projects
 - <a href="https://github.com/radd25104/SOC-Home-Lab-1">SOC-Home-Lab-1</a>
-- <a href="https://github.com/radd25104/SOC-Home-Lab-2">SOC-Home-Lab-2</a>
+
 
 ### Labs
 - <a href="https://github.com/radd25104/Basic_Linux_Challenges">Linux-Challenges</a>
