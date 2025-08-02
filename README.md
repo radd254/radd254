@@ -11,18 +11,19 @@
   </a>
 </h1>
 
-## Skills
+## Skills & Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/radd254/SOC-Home-Lab-1">SOC-Home-Lab-1</a>|
 | Advanced SIEM Implementation and Log Analysis  | <a href="https://github.com/radd254/SOC-Home-Lab-2">SOC-Home-Lab-2</a>|
 
+
+
 <h2 align="left">
   🛠 Languages and tools:
+  
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -40,8 +41,7 @@
   <img src="https://wazuh.com/wp-content/themes/wazuh-v3/assets/images/trademark-and-brand-policy/Wazuh-logo-dark-backgroud.png" height="35"  />
 </div>
 
-## Projects
-- <a href="https://github.com/radd254/SOC-Home-Lab-1">SOC-Home-Lab-1</a>
+
 
 
 ### Labs
