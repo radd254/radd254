@@ -6,7 +6,7 @@
   <a href="https://www.facebook.com/dathn.2510" target="blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="mailto:hdat251004@gmail.com" target="blank">
+  <a href="mailto:dathn.2514@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </h1>
@@ -15,7 +15,8 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/hoangdat251004/SOC-Home-Lab-1">SOC-Home-Lab-1</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/radd254/SOC-Home-Lab-1">SOC-Home-Lab-1</a>|
+| Advanced SIEM Implementation and Log Analysis  | <a href="https://github.com/radd254/SOC-Home-Lab-2">SOC-Home-Lab-2</a>|
 
 <h2 align="left">
   🛠 Languages and tools:
@@ -40,10 +41,10 @@
 </div>
 
 ## Projects
-- <a href="https://github.com/radd25104/SOC-Home-Lab-1">SOC-Home-Lab-1</a>
+- <a href="https://github.com/radd254/SOC-Home-Lab-1">SOC-Home-Lab-1</a>
 
 
 ### Labs
-- <a href="https://github.com/radd25104/Basic_Linux_Challenges">Linux-Challenges</a>
-- <a href="https://github.com/radd25104/Basic_Reverse_Engineering">Basic_Reverse_Engineering</a>
-- <a href="https://github.com/radd25104/Basic_Reverse_Engineering_0">Basic_Reverse_Engineering_0</a>
+- <a href="https://github.com/radd254/Basic_Linux_Challenges">Linux-Challenges</a>
+- <a href="https://github.com/radd254/Basic_Reverse_Engineering">Basic_Reverse_Engineering</a>
+- <a href="https://github.com/radd254/Basic_Reverse_Engineering_0">Basic_Reverse_Engineering_0</a>
