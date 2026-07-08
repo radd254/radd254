@@ -40,6 +40,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/crowdstrike-wordmark-dark.png" alt="crowstrike logo" height="35"  />
   <img width="12" />
+  <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTI3OTYwLVY0cjJhMg?revision=8&image-dimensions=2000x2000&constrain-image=true" height="35" />
+  <img width="12" />
   <img src="https://www.ossec.net/wp-content/uploads/2019/01/ossec_logo_2.png" height="35"  />
   <img width="12" />
   <img src="https://wazuh.com/wp-content/themes/wazuh-v3/assets/images/trademark-and-brand-policy/Wazuh-logo-dark-backgroud.png" height="35"  />
