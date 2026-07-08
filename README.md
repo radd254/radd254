@@ -36,8 +36,6 @@
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/9434884/43697219-3cb4ef3a-9975-11e8-9a9c-73f4f537442d.png" alt="Sentinel Logo" height="35"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/crowdstrike-wordmark-dark.png" alt="crowstrike logo" height="35"  />
   <img width="12" />
   <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTI3OTYwLVY0cjJhMg?revision=8&image-dimensions=2000x2000&constrain-image=true" height="35" />
